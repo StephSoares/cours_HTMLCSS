@@ -1,0 +1,38 @@
+header{
+  background-color: #E89600;
+  padding: 10px 50px;
+  text-align :center;
+  color : #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  float: top;
+}
+nav{
+  float: left;
+  background-color: #D60004;
+  width: 240px;
+  text-align :center;
+  color : #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+article{
+  background-color: #B00AD6;
+  padding: 10px 50px;
+  margin-left: 245px;
+  text-align :center;
+  color : #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  float: right;
+}
+footer{
+  background-color: #00922E;
+  padding: 10px 50px;
+  text-align :center;
+  color : #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  clear: both;
+
+}

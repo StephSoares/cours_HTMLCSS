@@ -1,0 +1,93 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+header {
+  background-size: cover;
+  background: url(images/ny-filtered.jpg) no-repeat center bottom;
+  overflow: hidden;
+}
+header h1 {
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 1px 2px 0 black;
+  font-family: 'Oswald', sans-serif;
+  color:#fff;
+  font-size: 4.688rem;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  margin: 250px 0;
+}
+.margin-b-50{
+  margin-bottom: 50px;
+}
+.bg-dark{
+  background-color: transparent !important;
+}
+.figure img {
+  max-width: 200px;
+}
+.figure{
+  display:block;
+  margin: 0 auto;
+}
+.back2 {
+  background-size: cover;
+  background-image: url(images/photo-1495291158577-5f6a7097419f.jpg);
+  height:300px;
+  padding-top: 200px;
+}
+h3{
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 50px;
+}
+.process {
+  text-align: center;
+}
+.back3 {
+  background-size: cover;
+  background-image: url(images/bois_1.jpg);
+  height:400px;
+  padding-top: 200px;
+}
+.container h3{
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 30px;
+}
+.container h5 {
+  text-align: center;
+  font-weight: 400;
+}
+.container h6{
+  text-align: center;
+  font-weight: 400;
+}
+.prenium {
+  padding: 30px;
+  text-align: left;
+}
+.prenium i {
+  float:left;
+}
+.prenium h5 {
+  text-transform: uppercase;
+}
+.prenium h6 {
+  font-weight: bold;
+}
+.prenium1 {
+  padding: 30px;
+  text-align: left;
+}
+.prenium1 i {
+  float:left;
+}
+.prenium1 h5 {
+  text-transform: uppercase;
+}
+.prenium1 h6 {
+  font-weight: bold;
+}
